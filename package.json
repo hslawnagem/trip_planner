@@ -1,0 +1,19 @@
+{
+  "name": "trip_plan",
+  "version": "1.0.0",
+  "description": "trip planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwalsh01/trip_planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwalsh01/trip_planner/issues"
+  },
+  "homepage": "https://github.com/mwalsh01/trip_planner#readme"
+}
